@@ -76,7 +76,6 @@
                                 <destFileName>webapp-runner.jar</destFileName>
                             </artifactItem>
                         </artifactItems>
-			    <appName>watchlist</appName>
                     </configuration>
                 </execution>
             </executions>
